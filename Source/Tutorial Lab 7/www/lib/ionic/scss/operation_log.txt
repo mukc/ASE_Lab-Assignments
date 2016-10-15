@@ -1,0 +1,29 @@
+[824:8664:1015/003238:VERBOSE1:crash_service_main.cc(68)] Session start. cmdline is [--reporter-url=https://ticinocrashreporter.azurewebsites.net/crash --application-name=VSCode --v=1]
+[824:8664:1015/003238:VERBOSE1:crash_service.cc(142)] window handle is 001509C4
+[824:8664:1015/003238:VERBOSE1:crash_service.cc(290)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at 
+[824:8664:1015/003238:VERBOSE1:crash_service.cc(294)] checkpoint is crash_checkpoint.txt
+server is https://ticinocrashreporter.azurewebsites.net/crash
+maximum 128 reports/day
+reporter is electron-crash-service
+[824:8664:1015/003238:VERBOSE1:crash_service_main.cc(84)] Ready to process crash requests
+[824:8236:1015/003238:VERBOSE1:crash_service.cc(323)] client start. pid = 3428
+[824:8236:1015/003238:VERBOSE1:crash_service.cc(323)] client start. pid = 8496
+[10208:896:1015/003238:VERBOSE1:crash_service_main.cc(68)] Session start. cmdline is [--reporter-url=https://ticinocrashreporter.azurewebsites.net/crash --application-name=VSCode --v=1]
+[10208:896:1015/003238:VERBOSE1:crash_service.cc(142)] window handle is 00170AD8
+[10208:896:1015/003238:VERBOSE1:crash_service.cc(290)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at 
+[10208:896:1015/003238:VERBOSE1:crash_service.cc(294)] checkpoint is crash_checkpoint.txt
+server is https://ticinocrashreporter.azurewebsites.net/crash
+maximum 128 reports/day
+reporter is electron-crash-service
+[10208:896:1015/003238:ERROR:crash_service.cc(301)] could not start dumper
+[824:9852:1015/003241:VERBOSE1:crash_service.cc(331)] client end. pid = 3428
+[824:9852:1015/003241:VERBOSE1:crash_service.cc(331)] client end. pid = 8496
+[824:9852:1015/003242:VERBOSE1:crash_service.cc(352)] zero clients. exiting
+[824:8664:1015/003242:VERBOSE1:crash_service.cc(490)] session ending..
+[824:8664:1015/003242:VERBOSE1:crash_service.cc(495)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[824:8664:1015/003242:VERBOSE1:crash_service_main.cc(89)] Session end. return code is 0

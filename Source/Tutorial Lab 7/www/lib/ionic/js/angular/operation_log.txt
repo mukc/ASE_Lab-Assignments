@@ -1,0 +1,192 @@
+[5048:948:1015/003052:VERBOSE1:crash_service_main.cc(68)] Session start. cmdline is [--reporter-url=https://ticinocrashreporter.azurewebsites.net/crash --application-name=VSCode --v=1]
+[5048:948:1015/003052:VERBOSE1:crash_service.cc(142)] window handle is 000C09DA
+[5048:948:1015/003052:VERBOSE1:crash_service.cc(290)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at 
+[5048:948:1015/003052:VERBOSE1:crash_service.cc(294)] checkpoint is crash_checkpoint.txt
+server is https://ticinocrashreporter.azurewebsites.net/crash
+maximum 128 reports/day
+reporter is electron-crash-service
+[5048:948:1015/003052:ERROR:crash_service.cc(301)] could not start dumper
+[4420:7252:1015/003052:VERBOSE1:crash_service_main.cc(68)] Session start. cmdline is [--reporter-url=https://ticinocrashreporter.azurewebsites.net/crash --application-name=VSCode --v=1]
+[4420:7252:1015/003052:VERBOSE1:crash_service.cc(142)] window handle is 002E0C08
+[4420:7252:1015/003052:VERBOSE1:crash_service.cc(290)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at 
+[4420:7252:1015/003052:VERBOSE1:crash_service.cc(294)] checkpoint is crash_checkpoint.txt
+server is https://ticinocrashreporter.azurewebsites.net/crash
+maximum 128 reports/day
+reporter is electron-crash-service
+[4420:7252:1015/003052:ERROR:crash_service.cc(301)] could not start dumper
+[4732:3536:1015/003059:VERBOSE1:crash_service_main.cc(68)] Session start. cmdline is [--reporter-url=https://ticinocrashreporter.azurewebsites.net/crash --application-name=VSCode --v=1]
+[4732:3536:1015/003059:VERBOSE1:crash_service.cc(142)] window handle is 00110902
+[4732:3536:1015/003059:VERBOSE1:crash_service.cc(290)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at 
+[4732:3536:1015/003059:VERBOSE1:crash_service.cc(294)] checkpoint is crash_checkpoint.txt
+server is https://ticinocrashreporter.azurewebsites.net/crash
+maximum 128 reports/day
+reporter is electron-crash-service
+[4732:3536:1015/003059:VERBOSE1:crash_service_main.cc(84)] Ready to process crash requests
+[4732:6960:1015/003059:VERBOSE1:crash_service.cc(323)] client start. pid = 3460
+[4732:6960:1015/003059:VERBOSE1:crash_service.cc(323)] client start. pid = 2036
+[4992:7772:1015/003059:VERBOSE1:crash_service_main.cc(68)] Session start. cmdline is [--reporter-url=https://ticinocrashreporter.azurewebsites.net/crash --application-name=VSCode --v=1]
+[4992:7772:1015/003059:VERBOSE1:crash_service.cc(142)] window handle is 002F0C08
+[4992:7772:1015/003059:VERBOSE1:crash_service.cc(290)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at 
+[4992:7772:1015/003059:VERBOSE1:crash_service.cc(294)] checkpoint is crash_checkpoint.txt
+server is https://ticinocrashreporter.azurewebsites.net/crash
+maximum 128 reports/day
+reporter is electron-crash-service
+[4992:7772:1015/003059:ERROR:crash_service.cc(301)] could not start dumper
+[4732:8768:1015/003103:VERBOSE1:crash_service.cc(331)] client end. pid = 3460
+[4732:8768:1015/003104:VERBOSE1:crash_service.cc(331)] client end. pid = 2036
+[4732:8768:1015/003105:VERBOSE1:crash_service.cc(352)] zero clients. exiting
+[4732:3536:1015/003105:VERBOSE1:crash_service.cc(490)] session ending..
+[4732:3536:1015/003105:VERBOSE1:crash_service.cc(495)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[4732:3536:1015/003105:VERBOSE1:crash_service_main.cc(89)] Session end. return code is 0
+[4376:9568:1015/003118:VERBOSE1:crash_service_main.cc(68)] Session start. cmdline is [--reporter-url=https://ticinocrashreporter.azurewebsites.net/crash --application-name=VSCode --v=1]
+[4376:9568:1015/003118:VERBOSE1:crash_service.cc(142)] window handle is 004B0B38
+[4376:9568:1015/003118:VERBOSE1:crash_service.cc(290)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at 
+[4376:9568:1015/003118:VERBOSE1:crash_service.cc(294)] checkpoint is crash_checkpoint.txt
+server is https://ticinocrashreporter.azurewebsites.net/crash
+maximum 128 reports/day
+reporter is electron-crash-service
+[4376:9568:1015/003118:VERBOSE1:crash_service_main.cc(84)] Ready to process crash requests
+[4376:7252:1015/003118:VERBOSE1:crash_service.cc(323)] client start. pid = 7952
+[4376:7252:1015/003118:VERBOSE1:crash_service.cc(323)] client start. pid = 4312
+[7628:9184:1015/003118:VERBOSE1:crash_service_main.cc(68)] Session start. cmdline is [--reporter-url=https://ticinocrashreporter.azurewebsites.net/crash --application-name=VSCode --v=1]
+[7628:9184:1015/003118:VERBOSE1:crash_service.cc(142)] window handle is 00110AD8
+[7628:9184:1015/003118:VERBOSE1:crash_service.cc(290)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at 
+[7628:9184:1015/003118:VERBOSE1:crash_service.cc(294)] checkpoint is crash_checkpoint.txt
+server is https://ticinocrashreporter.azurewebsites.net/crash
+maximum 128 reports/day
+reporter is electron-crash-service
+[7628:9184:1015/003118:ERROR:crash_service.cc(301)] could not start dumper
+[4376:2628:1015/003122:VERBOSE1:crash_service.cc(331)] client end. pid = 7952
+[4376:2628:1015/003122:VERBOSE1:crash_service.cc(331)] client end. pid = 4312
+[4376:2628:1015/003123:VERBOSE1:crash_service.cc(352)] zero clients. exiting
+[4376:9568:1015/003123:VERBOSE1:crash_service.cc(490)] session ending..
+[4376:9568:1015/003123:VERBOSE1:crash_service.cc(495)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[4376:9568:1015/003123:VERBOSE1:crash_service_main.cc(89)] Session end. return code is 0
+[2408:4104:1015/003126:VERBOSE1:crash_service_main.cc(68)] Session start. cmdline is [--reporter-url=https://ticinocrashreporter.azurewebsites.net/crash --application-name=VSCode --v=1]
+[2408:4104:1015/003126:VERBOSE1:crash_service.cc(142)] window handle is 000A0AE0
+[2408:4104:1015/003126:VERBOSE1:crash_service.cc(290)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at 
+[2408:4104:1015/003126:VERBOSE1:crash_service.cc(294)] checkpoint is crash_checkpoint.txt
+server is https://ticinocrashreporter.azurewebsites.net/crash
+maximum 128 reports/day
+reporter is electron-crash-service
+[2408:4104:1015/003126:VERBOSE1:crash_service_main.cc(84)] Ready to process crash requests
+[2408:9564:1015/003126:VERBOSE1:crash_service.cc(323)] client start. pid = 9944
+[2408:9564:1015/003126:VERBOSE1:crash_service.cc(323)] client start. pid = 8908
+[2380:3624:1015/003126:VERBOSE1:crash_service_main.cc(68)] Session start. cmdline is [--reporter-url=https://ticinocrashreporter.azurewebsites.net/crash --application-name=VSCode --v=1]
+[2380:3624:1015/003126:VERBOSE1:crash_service.cc(142)] window handle is 00120AD8
+[2380:3624:1015/003126:VERBOSE1:crash_service.cc(290)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at 
+[2380:3624:1015/003126:VERBOSE1:crash_service.cc(294)] checkpoint is crash_checkpoint.txt
+server is https://ticinocrashreporter.azurewebsites.net/crash
+maximum 128 reports/day
+reporter is electron-crash-service
+[2380:3624:1015/003126:ERROR:crash_service.cc(301)] could not start dumper
+[2408:6576:1015/003128:VERBOSE1:crash_service.cc(331)] client end. pid = 9944
+[2408:6576:1015/003128:VERBOSE1:crash_service.cc(331)] client end. pid = 8908
+[2408:6576:1015/003129:VERBOSE1:crash_service.cc(352)] zero clients. exiting
+[2408:4104:1015/003129:VERBOSE1:crash_service.cc(490)] session ending..
+[2408:4104:1015/003129:VERBOSE1:crash_service.cc(495)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[2408:4104:1015/003129:VERBOSE1:crash_service_main.cc(89)] Session end. return code is 0
+[2816:844:1015/003133:VERBOSE1:crash_service_main.cc(68)] Session start. cmdline is [--reporter-url=https://ticinocrashreporter.azurewebsites.net/crash --application-name=VSCode --v=1]
+[2816:844:1015/003133:VERBOSE1:crash_service.cc(142)] window handle is 002B0AF4
+[2816:844:1015/003133:VERBOSE1:crash_service.cc(290)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at 
+[2816:844:1015/003133:VERBOSE1:crash_service.cc(294)] checkpoint is crash_checkpoint.txt
+server is https://ticinocrashreporter.azurewebsites.net/crash
+maximum 128 reports/day
+reporter is electron-crash-service
+[2816:844:1015/003133:VERBOSE1:crash_service_main.cc(84)] Ready to process crash requests
+[2816:2528:1015/003133:VERBOSE1:crash_service.cc(323)] client start. pid = 7436
+[2816:2528:1015/003133:VERBOSE1:crash_service.cc(323)] client start. pid = 1484
+[9784:6156:1015/003133:VERBOSE1:crash_service_main.cc(68)] Session start. cmdline is [--reporter-url=https://ticinocrashreporter.azurewebsites.net/crash --application-name=VSCode --v=1]
+[9784:6156:1015/003133:VERBOSE1:crash_service.cc(142)] window handle is 00130AD8
+[9784:6156:1015/003133:VERBOSE1:crash_service.cc(290)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at 
+[9784:6156:1015/003133:VERBOSE1:crash_service.cc(294)] checkpoint is crash_checkpoint.txt
+server is https://ticinocrashreporter.azurewebsites.net/crash
+maximum 128 reports/day
+reporter is electron-crash-service
+[9784:6156:1015/003133:ERROR:crash_service.cc(301)] could not start dumper
+[2816:9852:1015/003137:VERBOSE1:crash_service.cc(331)] client end. pid = 7436
+[2816:9852:1015/003137:VERBOSE1:crash_service.cc(331)] client end. pid = 1484
+[2816:9852:1015/003138:VERBOSE1:crash_service.cc(352)] zero clients. exiting
+[2816:844:1015/003138:VERBOSE1:crash_service.cc(490)] session ending..
+[2816:844:1015/003138:VERBOSE1:crash_service.cc(495)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[2816:844:1015/003138:VERBOSE1:crash_service_main.cc(89)] Session end. return code is 0
+[952:7384:1015/003141:VERBOSE1:crash_service_main.cc(68)] Session start. cmdline is [--reporter-url=https://ticinocrashreporter.azurewebsites.net/crash --application-name=VSCode --v=1]
+[952:7384:1015/003141:VERBOSE1:crash_service.cc(142)] window handle is 000C0AE0
+[952:7384:1015/003141:VERBOSE1:crash_service.cc(290)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at 
+[952:7384:1015/003141:VERBOSE1:crash_service.cc(294)] checkpoint is crash_checkpoint.txt
+server is https://ticinocrashreporter.azurewebsites.net/crash
+maximum 128 reports/day
+reporter is electron-crash-service
+[952:7384:1015/003141:VERBOSE1:crash_service_main.cc(84)] Ready to process crash requests
+[952:3612:1015/003141:VERBOSE1:crash_service.cc(323)] client start. pid = 2036
+[952:3612:1015/003141:VERBOSE1:crash_service.cc(323)] client start. pid = 1596
+[7700:6296:1015/003141:VERBOSE1:crash_service_main.cc(68)] Session start. cmdline is [--reporter-url=https://ticinocrashreporter.azurewebsites.net/crash --application-name=VSCode --v=1]
+[7700:6296:1015/003141:VERBOSE1:crash_service.cc(142)] window handle is 00140AD8
+[7700:6296:1015/003141:VERBOSE1:crash_service.cc(290)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at 
+[7700:6296:1015/003141:VERBOSE1:crash_service.cc(294)] checkpoint is crash_checkpoint.txt
+server is https://ticinocrashreporter.azurewebsites.net/crash
+maximum 128 reports/day
+reporter is electron-crash-service
+[7700:6296:1015/003141:ERROR:crash_service.cc(301)] could not start dumper
+[952:7768:1015/003143:VERBOSE1:crash_service.cc(331)] client end. pid = 2036
+[952:7768:1015/003143:VERBOSE1:crash_service.cc(331)] client end. pid = 1596
+[952:7768:1015/003144:VERBOSE1:crash_service.cc(352)] zero clients. exiting
+[952:7384:1015/003144:VERBOSE1:crash_service.cc(490)] session ending..
+[952:7384:1015/003144:VERBOSE1:crash_service.cc(495)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[952:7384:1015/003144:VERBOSE1:crash_service_main.cc(89)] Session end. return code is 0
+[2528:7436:1015/003147:VERBOSE1:crash_service_main.cc(68)] Session start. cmdline is [--reporter-url=https://ticinocrashreporter.azurewebsites.net/crash --application-name=VSCode --v=1]
+[2528:7436:1015/003147:VERBOSE1:crash_service.cc(142)] window handle is 001009D8
+[2528:7436:1015/003147:VERBOSE1:crash_service.cc(290)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at 
+[2528:7436:1015/003147:VERBOSE1:crash_service.cc(294)] checkpoint is crash_checkpoint.txt
+server is https://ticinocrashreporter.azurewebsites.net/crash
+maximum 128 reports/day
+reporter is electron-crash-service
+[2528:7436:1015/003147:VERBOSE1:crash_service_main.cc(84)] Ready to process crash requests
+[2528:2812:1015/003147:VERBOSE1:crash_service.cc(323)] client start. pid = 4884
+[2528:2812:1015/003147:VERBOSE1:crash_service.cc(323)] client start. pid = 8072
+[3656:7836:1015/003147:VERBOSE1:crash_service_main.cc(68)] Session start. cmdline is [--reporter-url=https://ticinocrashreporter.azurewebsites.net/crash --application-name=VSCode --v=1]
+[3656:7836:1015/003147:VERBOSE1:crash_service.cc(142)] window handle is 00150AD8
+[3656:7836:1015/003147:VERBOSE1:crash_service.cc(290)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at 
+[3656:7836:1015/003147:VERBOSE1:crash_service.cc(294)] checkpoint is crash_checkpoint.txt
+server is https://ticinocrashreporter.azurewebsites.net/crash
+maximum 128 reports/day
+reporter is electron-crash-service
+[3656:7836:1015/003147:ERROR:crash_service.cc(301)] could not start dumper
+[2528:8832:1015/003150:VERBOSE1:crash_service.cc(331)] client end. pid = 4884
+[2528:8832:1015/003150:VERBOSE1:crash_service.cc(331)] client end. pid = 8072
+[2528:8832:1015/003151:VERBOSE1:crash_service.cc(352)] zero clients. exiting
+[2528:7436:1015/003151:VERBOSE1:crash_service.cc(490)] session ending..
+[2528:7436:1015/003151:VERBOSE1:crash_service.cc(495)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[2528:7436:1015/003151:VERBOSE1:crash_service_main.cc(89)] Session end. return code is 0
